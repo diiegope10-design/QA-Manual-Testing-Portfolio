@@ -1,4 +1,48 @@
-# QA-Manual-Testing-Portfolio
-QA Manual Testing Portfolio – Software Testing Projects
-[📄 Proyecto 1 – Testing QA Manual _ SauceDemo - Hoja 1.pdf](https://github.com/user-attachments/files/31970913/Proyecto.1.Testing.QA.Manual._.SauceDemo.-.Hoja.1.pdf)   
-[Proyecto 2 — Técnicas de diseño + ciclo de pruebasculo sin título - Hoja 1.pdf](https://github.com/user-attachments/files/31970927/Proyecto.2.Tecnicas.de.diseno.%2B.ciclo.de.pruebasculo.sin.titulo.-.Hoja.1.pdf)
+# QA Manual Testing Portfolio
+
+Portfolio de proyectos de testing manual, orientado a demostrar el dominio de técnicas de diseño de casos de prueba, ejecución, reporte de bugs y ciclos de re-testing/regresión sobre aplicaciones web reales.
+
+---
+
+## 📁 Proyecto 1 – Testing Funcional en SauceDemo
+
+**Aplicación bajo prueba:** [SauceDemo](https://www.saucedemo.com)
+**Tipo de testing:** Funcional – Caja negra
+**Entorno:** Google Chrome / Windows / Desktop
+**Casos ejecutados:** 10 (10 PASS)
+
+### Objetivo
+Validar el flujo completo de un e-commerce: login, visualización de productos, carrito de compras y checkout, cubriendo tanto escenarios positivos como negativos.
+
+### Alcance
+- Inicio de sesión con credenciales válidas e inválidas (usuario vacío, contraseña vacía, ambos vacíos, credenciales incorrectas)
+- Visualización del listado de productos tras autenticarse
+- Agregado de producto al carrito
+- Checkout con datos incompletos (validación de campos obligatorios)
+- Checkout completo con confirmación de compra
+
+### Resultado
+10/10 casos ejecutados con resultado exitoso. El sistema respondió de forma consistente con los mensajes de error esperados (`Epic sadface: ...`) en todos los escenarios negativos.
+
+📄 [Ver casos de prueba completos](Proyecto.1.Testing.QA.Manual._.SauceDemo.-.Hoja.1.pdf)
+
+---
+
+## 📁 Proyecto 2 – Técnicas de Diseño y Ciclo de Pruebas en ParaBank
+
+**Aplicaciones bajo prueba:** [ParaBank](https://parabank.parasoft.com) / [QA Journey – Form Validation](https://playground.qajourney.net/form/)
+**Tipo de testing:** Funcional – Smoke, Partición de Equivalencias, Valores Límite, Bug Reporting, Re-testing, Regression Testing
+
+### Objetivo
+Aplicar un ciclo de QA completo — desde el diseño de casos con técnicas formales hasta la detección, documentación y seguimiento de defectos — sobre una aplicación bancaria real.
+
+### Técnicas aplicadas
+
+| Técnica | Casos | Resultado |
+|---|---|---|
+| Smoke Testing | 5 | ✅ 5 PASS |
+| Validación de Formularios | 3 | ✅ 3 PASS |
+| Partición de Equivalencias | 3 | ✅ 3 PASS |
+| Valores Límite | 4 | ✅ 3 PASS |
+| Bug Reporting | 3 | 🐞 3 defectos reportados |
+| Re-testing | 2 | ❌ 2
