@@ -31,7 +31,7 @@ Validar el flujo completo de un e-commerce: login, visualización de productos, 
 ## 📁 Proyecto 2 – Técnicas de Diseño y Ciclo de Pruebas en ParaBank
 
 **Aplicaciones bajo prueba:** [ParaBank](https://parabank.parasoft.com) / [QA Journey – Form Validation](https://playground.qajourney.net/form/)
-**Tipo de testing:** Funcional — Técnicas de caja negra (Partición de Equivalencias, Valores Límite) + Smoke Testing, Bug Reporting, Re-testing y Regression Testing
+**Tipo de testing:** Funcional — Técnicas de caja negra (Partición de Equivalencias, Valor📄 [Ver casos de prueba completos](./Proyecto-1-SauceDemo-Test-Cases.pdf)es Límite) + Smoke Testing, Bug Reporting, Re-testing y Regression Testing
 
 ### Objetivo
 Aplicar un ciclo de QA completo — desde el diseño de casos con técnicas formales hasta la detección, documentación y seguimiento de defectos — sobre una aplicación bancaria real.
