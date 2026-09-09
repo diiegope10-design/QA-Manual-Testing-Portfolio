@@ -24,7 +24,7 @@ Validar el flujo completo de un e-commerce: login, visualización de productos, 
 ### Resultado
 10/10 casos ejecutados con resultado exitoso. El sistema respondió de forma consistente con los mensajes de error esperados (`Epic sadface: ...`) en todos los escenarios negativos.
 
-📄 [Ver casos de prueba completos](./📄%20Proyecto%201%20%E2%80%93%20Testing%20QA%20Manual%20_%20SauceDemo%20-%20Hoja%201.pdf)
+📄 [Ver casos de prueba completos](./Proyecto-1-SauceDemo-Test-Cases.pdf)
 
 ---
 
