@@ -4,10 +4,10 @@ Portfolio de proyectos de testing manual, orientado a demostrar el dominio de t�
 
 ---
 
-## 📁 Proyecto 1 – Testing Funcional en SauceDemo
+## 📁 Proyecto 1 – Testing Funcional
 
-**Aplicación bajo prueba:** [SauceDemo](https://www.saucedemo.com)
-**Tipo de testing:** Funcional – Caja negra
+**Aplicación bajo prueba:** (https://www.saucedemo.com)
+**Tipo de testing:** Funcional 
 **Entorno:** Google Chrome / Windows / Desktop
 **Casos ejecutados:** 10 (10 PASS)
 
