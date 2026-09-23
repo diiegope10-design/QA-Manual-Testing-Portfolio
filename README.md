@@ -54,3 +54,4 @@ Se aplicó un ciclo completo de QA manual: diseño de casos con técnicas formal
 
 [📄 Ver casos de prueba completos](Proyecto-2-Tecnicas-Diseno-Ciclo-Pruebas.pdf)
 
+
