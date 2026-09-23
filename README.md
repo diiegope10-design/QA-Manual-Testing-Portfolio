@@ -52,6 +52,7 @@ Aplicar un ciclo de QA completo — desde el diseño de casos con técnicas form
 ### Conclusión
 Se aplicó un ciclo completo de QA manual: diseño de casos con técnicas formales de caja negra (Partición de Equivalencias, Valores Límite) sobre QA Journey, Smoke Testing y documentación de defectos sobre ParaBank, con seguimiento posterior vía Re-testing y Regression Testing. Se identificaron y reportaron 3 defectos reproducibles en la funcionalidad de transferencias de ParaBank, dos de los cuales persistieron tras el re-testing.
 
-[📄 Ver casos de prueba completos](Proyecto-2-Tecnicas-Diseno-Ciclo-Pruebas.pdf)
+[📄 Ver casos de prueba completos](proyecto-2-tecnicas-diseno.pdf)
+
 
 
