@@ -24,7 +24,7 @@ Validar el flujo completo de un e-commerce: login, visualización de productos, 
 ### Resultado
 10/10 casos ejecutados con resultado exitoso. El sistema respondió de forma consistente con los mensajes de error esperados (`Epic sadface: ...`) en todos los escenarios negativos.
 
-📄 [Ver casos de prueba completos](./Proyecto-1-SauceDemo-Test-Cases.pdf)
+[📄 Ver casos de prueba completos](Proyecto-1-SauceDemo-Test-Cases.pdf)
 
 ---
 
@@ -52,4 +52,5 @@ Aplicar un ciclo de QA completo — desde el diseño de casos con técnicas form
 ### Conclusión
 Se aplicó un ciclo completo de QA manual: diseño de casos con técnicas formales de caja negra (Partición de Equivalencias, Valores Límite) sobre QA Journey, Smoke Testing y documentación de defectos sobre ParaBank, con seguimiento posterior vía Re-testing y Regression Testing. Se identificaron y reportaron 3 defectos reproducibles en la funcionalidad de transferencias de ParaBank, dos de los cuales persistieron tras el re-testing.
 
-📄 [Ver casos de prueba completos](./Proyecto%202%20%E2%80%94%20T%C3%A9cnicas%20de%20dise%C3%B1o%20%2B%20ciclo%20de%20pruebasculo%20sin%20t%C3%ADtulo%20-%20Hoja%201.pdf)
+[📄 Ver casos de prueba completos](Proyecto-2-Tecnicas-Diseno-Ciclo-Pruebas.pdf)
+
