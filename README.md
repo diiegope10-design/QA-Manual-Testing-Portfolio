@@ -1,6 +1,6 @@
 # QA Manual Testing Portfolio
 
-Portfolio de proyectos de testing manual, orientado a demostrar el dominio de técnicas de diseño de casos de prueba, ejecución, reporte de bugs y ciclos de re-testing/regresión sobre aplicaciones web.
+Portafolio de proyectos de testing manual, orientado a demostrar el dominio de técnicas de diseño de casos de prueba, ejecución, reporte de bugs y ciclos de re-testing/regresión sobre aplicaciones web.
 
 ---
 
